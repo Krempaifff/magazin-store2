@@ -1,0 +1,1 @@
+# magazin-store2
